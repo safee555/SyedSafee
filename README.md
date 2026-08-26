@@ -31,4 +31,4 @@ automation, DevOps, and production support.
 
 ## 📫 Connect with Me
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/syedsafee/
